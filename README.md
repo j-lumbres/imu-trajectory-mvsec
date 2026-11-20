@@ -93,3 +93,13 @@ The position fixes come from the ground truth itself, so the EKF result shows wh
 2. J. Solà. "Quaternion kinematics for the error-state Kalman filter." arXiv:1711.02508, 2017.
 3. S. O. H. Madgwick. Gait tracking with x-IMU, MATLAB `SixDofAnimation`, x-io Technologies. The animation in this project follows its layout.
 4. M. Grupp. evo, a Python package for the evaluation of odometry and SLAM. The trajectory figures follow its overlay style.
+
+## License
+
+Code in this repository is licensed under the [MIT License](LICENSE).
+
+The calibration file in `calibration/` and the figures in `figures/` and in the notebook outputs are
+adapted from the [MVSEC dataset](https://daniilidis-group.github.io/mvsec/) and are distributed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The attribution, source, and modification notice for these assets is in [ATTRIBUTION.md](ATTRIBUTION.md).
