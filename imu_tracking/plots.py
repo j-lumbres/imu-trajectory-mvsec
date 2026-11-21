@@ -13,6 +13,8 @@ ESTIMATE_COLORS = {
     "Gyro only": "#d1495b",
     "IMU only (dead reckoning)": "#d1495b",
     "EKF (IMU + 1 Hz position fix)": "#1f5aa6",
+    "Stereo VO alone": "#7a4fa3",
+    "EKF (IMU + stereo VO)": "#1f5aa6",
 }
 FIX_COLOR = "#edae49"
 AXIS_COLORS = ["#d1495b", "#3a9d23", "#1f5aa6"]
